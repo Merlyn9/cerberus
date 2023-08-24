@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Merlyn9
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Lynis
-- 💞️ I’m looking to collaborate on AWS Data Migrations
-- 📫 How to reach me. merlyn76@merlyndevelops.com
+- 👋 Hi, I am studying for Comptia Security +
+- 🌱 I’m currently developing my Python 3
+- 💞️ My website is www.merlyndevelops.com 
 
 <!---
 Merlyn9/Merlyn9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

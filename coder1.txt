@@ -1,0 +1,33 @@
+These are some pages to download software from the video tutorial.
+These are basic tools for those who are in and or looking into the field of developer technologies. 
+I have also written a python file to run an bring up 6 of the mentioned programs for faster startup times.
+
+If you are opening this file, it is windows specific.
+https://www.hwinfo.com/download/
+
+All others in this series have opitions for Linux/Windows/& maybe MAC
+
+These two allow you burn iso images to a usb drive or other portable storge device.
+https://etcher.balena.io/
+https://www.raspberrypi.com/software/
+
+These programs are text editors that read HTML, JavaScript, Python 3, and PHP.
+These programs help you to start making the code base.
+https://code.visualstudio.com/download
+https://brackets.io/
+
+This tools helps to find and map networks
+https://nmap.org/download
+
+This package creates a server.  
+https://www.apachefriends.org/index.html
+
+This is Python, it is a great language to learn in todays society
+https://www.python.org/downloads/
+
+This is Kali Linux penetration suite. You should check it out.
+https://www.kali.org/get-kali/#kali-installer-images
+
+This package creats a virtual machine to test out suspected malicious malware.
+Also to test out ISO images to tinker inside different Operating Systems.
+https://www.virtualbox.org/wiki/Downloads
